@@ -1,6 +1,6 @@
-# UGS Travels (mock)
+# UGS Travels
 
-A mock marketing site for a travel agency. It presents visa assistance, flight booking, hotel reservations and tour packages, with a WhatsApp call-to-action for enquiries.
+A marketing website for a travel agency. It presents visa assistance, flight booking, hotel reservations and tour packages, with a WhatsApp call-to-action for enquiries.
 
 ## Sections
 
@@ -10,7 +10,7 @@ A mock marketing site for a travel agency. It presents visa assistance, flight b
 - Contact links (WhatsApp, email, phone) and social links
 - `sitemap.ts` for SEO
 
-This is a design mock. Contact details and photos are placeholders.
+Contact details and photos are placeholders.
 
 ## Tech stack
 
